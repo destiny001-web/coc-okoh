@@ -1,1 +1,1 @@
-declare module `icons/*`
+declare module `~icons/*`

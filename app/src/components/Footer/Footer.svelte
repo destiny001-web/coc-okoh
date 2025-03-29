@@ -12,8 +12,8 @@
        <p>And God placed all things under his feet and appointed him to be head over everything for the church, which is his body, the fullness of him who fills everything in every way.</p>
        medias
         <div class="space-y-3">
-            <div class="bg-white rounded-full h-10 text-black">
-                <p>No. 6 Okoh Street Delta State, Nigeria</p>
+            <div class="bg-white rounded-full h-10 text-black flex justify-center items-center">
+                <p class="font-bold">No. 6 Okoh Street Delta State, Nigeria</p>
             </div>
             <div class="space-y-2">
                 <Title text = "Fix a date with us" />

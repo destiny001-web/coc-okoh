@@ -13,4 +13,17 @@
     --color-blue: #2D38C2;
     --color-purple: #6822FF;
     --color-darkPurple: #0E0E17;
+
+
+
+
+    /* tailwind config file */
+    --container-sm: 640px;   /* Small screens */
+    --container-md: 768px;   /* Medium screens */
+    --container-lg: 1024px;  /* Large screens */
+    --container-xl: 1280px;  /* Extra large screens */
+    --container-2xl: 1536px; /* 2XL screens */
+    --container-3xl: 1792px; /* 3XL screens (custom, not default) */
+    --container-4xl: 1920px; /* 4XL screens (custom, not default) */
+    --container-8xl: 96rem;  /* Custom container (96rem = 1536px) */
 }
