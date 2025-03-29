@@ -18,9 +18,9 @@
             <div class="space-y-2">
                 <Title text = "Fix a date with us" />
                 <div>
-                    <p>Sunday worship - 8AM to 11AM</p>
+                    <p>Sunday worship - 7AM to 12:30PM</p>
                     <p>Wednesday worship - 6PM to 7PM</p>
-                    <p>Radio Programme - 8AM to 11AM</p>
+                    <p>Radio Programme - 10AM to 10:45AM</p>
                 </div>
             </div>
         </div>

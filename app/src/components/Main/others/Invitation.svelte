@@ -9,7 +9,11 @@
         <button>Join</button>
     </div>
     <div class="flex gap-2">
-        <div class="w-40 h-50 rounded-xl border-4"></div>
-        <div class="w-40 h-70 rounded-xl border-4"></div>
+        <div class="w-40 h-50 rounded-xl border-4">
+            <img src="/testimonies/img1.jpeg" alt="" class="bg-cover bg-center">
+        </div>
+        <div class="w-40 h-70 rounded-xl border-4">
+            <img src="/testimonies/img1.jpeg" alt="" class="bg-cover bg-center">
+        </div>
     </div>
 </section>
