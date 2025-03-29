@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+
+@theme {
+
+    /* fonts */
+    --font-main: 'Roboto Variable', sans-serif;
+    --font-title: 'Lemon', system-ui;
+
+    /* colors */
+    --color-blue: #2D38C2;
+    --color-purple: #6822FF;
+    --color-darkPurple: #0E0E17;
+}
