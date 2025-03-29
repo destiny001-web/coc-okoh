@@ -1,6 +1,4 @@
-<script>
-	import Small from "../../../components/Texts/Small.svelte";
-
+<!-- <script>
 
 	import Title from "../../../components/Texts/Title.svelte";
     import IconMail from '~icons/fa-solid/envelope'; 
@@ -30,4 +28,4 @@
                 <button class="w-80 h-13 text-white font-bold bg-gold rounded-md @md:w-100 @xl:w-80 @2xl:w-100 @4xl:w-120" ><a href="/home">Login</a></button>
             </form>
         </div>
-</section>
+</section> -->
